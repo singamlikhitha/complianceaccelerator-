@@ -32,3 +32,7 @@ module "log_analytics" {
   location              = module.resource_group.location
   retention_days        = var.retention_days
 }
+
+
+
+
